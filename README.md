@@ -53,7 +53,3 @@ website : https://aigptcode.github.io/iphoneprofile/
 
 
 
-💞️ Feel free to support my endeavors through donations at:
-   - Ethereum: 0xc177e861fD9a9F598236C7183e105b9CCec9cb3e
-   - Bitcoin: bc1q3230gkphdk5qzsxtj079mz5w35svwrpwq6wh8c
-
